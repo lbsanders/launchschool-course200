@@ -6,3 +6,4 @@ Launch School Course 200 exercises
 - Getting to Know CSS
 - Opening the Box Model
 - Positioning Content
+- Working with Typography
