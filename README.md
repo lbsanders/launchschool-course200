@@ -7,3 +7,4 @@ Launch School Course 200 exercises
 - Opening the Box Model
 - Positioning Content
 - Working with Typography
+- Setting Backgrounds & Gradients
