@@ -8,3 +8,4 @@ Launch School Course 200 exercises
 - Positioning Content
 - Working with Typography
 - Setting Backgrounds & Gradients
+- Creating Lists
