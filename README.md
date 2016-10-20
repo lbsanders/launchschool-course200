@@ -24,3 +24,6 @@ Launch School Course 200 exercises
 - Step 4 - Add H2 Headings
 - Step 5 - Change Heading Colors
 - Step 6 - Use the Style Element
+
+### Part 3
+- Step 7 - Change Font Size and Color
