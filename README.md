@@ -21,3 +21,4 @@ Launch School Course 200 exercises
 
 ### Part 2
 - Step 3 - Add Preparation Directions
+- Step 4 - Add H2 Headings
