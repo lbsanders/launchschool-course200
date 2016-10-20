@@ -18,3 +18,6 @@ Launch School Course 200 exercises
 ### Part 1
 - Step 1 - Start with the HTML Document
 - Step 2 - Add Ingredients
+
+### Part 2
+- Step 3 - Add Preparation Directions
