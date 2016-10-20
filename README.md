@@ -27,3 +27,4 @@ Launch School Course 200 exercises
 
 ### Part 3
 - Step 7 - Change Font Size and Color
+- Step 8 - Different Colors for the H2 Headings
