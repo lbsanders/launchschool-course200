@@ -23,3 +23,4 @@ Launch School Course 200 exercises
 - Step 3 - Add Preparation Directions
 - Step 4 - Add H2 Headings
 - Step 5 - Change Heading Colors
+- Step 6 - Use the Style Element
