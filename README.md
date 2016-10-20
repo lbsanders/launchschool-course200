@@ -9,3 +9,6 @@ Launch School Course 200 exercises
 - Working with Typography
 - Setting Backgrounds & Gradients
 - Creating Lists
+- Adding Media
+- Building Forms
+- Organizing Data with Tables
