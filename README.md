@@ -12,3 +12,8 @@ Launch School Course 200 exercises
 - Adding Media
 - Building Forms
 - Organizing Data with Tables
+
+## Project: Pear and Bacon Grilled Cheese
+
+### Part 1
+- Step 1 - Start with the HTML Document
